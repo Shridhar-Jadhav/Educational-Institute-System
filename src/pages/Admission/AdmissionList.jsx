@@ -63,7 +63,7 @@ function AdmissionList() {
           />
         </div>
 
-        <div className="bg-white rounded-lg shadow p-6 m-6 overflow-hidden">
+        <div className="bg-white rounded-lg shadow p-6 m-6 overflow-x-auto">
           <table className="w-full">
             <thead>
               <tr className="bg-gray-100">
